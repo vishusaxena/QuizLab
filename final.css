@@ -1,0 +1,85 @@
+.main{
+    background-color:blueviolet;
+    width: 100%;
+    padding-bottom: 40px;
+    
+  
+    
+}
+.nav{
+    color:white;
+    
+    padding: 18px 0px;
+    
+    
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav ul li{
+    font-size: 20px;
+    margin-left: 23px;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   display:inline;
+   float: right;
+   margin-left: 20px;
+   padding-right: 20px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+   
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+#lab{
+    margin-right: 800px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1316.281700638504 17.433193697678377L1347.4723082747896 113.74021668008588 1407.8241150478289 49.020827503222876z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M522.3273404878654 398.8523780830602L613.1155611243964 314.1909926959004 528.4541757372366 223.4027720593694 437.66595510070556 308.06415744652924z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M483.341378613761 478.5421163308732L476.54696502360866 608.1872507575279 606.1920994502633 614.9816643476802 612.9865130404156 485.33652992102554z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M248.172%2c313.667C300.934%2c315.579%2c345.91%2c276.516%2c369.486%2c229.275C390.734%2c186.698%2c381.205%2c137.356%2c356.435%2c96.728C332.812%2c57.982%2c293.54%2c29.257%2c248.172%2c30.296C204.326%2c31.301%2c169.63%2c63.25%2c148.172%2c101.5C127.248%2c138.799%2c122.955%2c182.316%2c141.188%2c221.001C162.746%2c266.741%2c197.639%2c311.836%2c248.172%2c313.667' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M640.465%2c123.995C664.933%2c124.61%2c686.783%2c110.533%2c699.853%2c89.839C713.985%2c67.463%2c721.83%2c39.133%2c708.504%2c16.268C695.246%2c-6.481%2c666.796%2c-12.224%2c640.465%2c-12.064C614.484%2c-11.906%2c586.355%2c-5.683%2c573.842%2c17.086C561.634%2c39.299%2c572.63%2c65.465%2c586.035%2c86.976C598.473%2c106.935%2c616.955%2c123.404%2c640.465%2c123.995' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M200.281%2c221.735C245.512%2c223.676%2c279.404%2c184.761%2c301.178%2c145.068C321.973%2c107.161%2c331.05%2c61.227%2c308.602%2c24.275C286.823%2c-11.575%2c242.209%2c-19.773%2c200.281%2c-21.021C155.244%2c-22.361%2c101.904%2c-22%2c80.186%2c17.478C58.825%2c56.306%2c90.884%2c98.805%2c113.345%2c137.007C135.327%2c174.394%2c156.951%2c219.876%2c200.281%2c221.735' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+.container{
+    background-color: #3a415e;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 500px;
+    height: 300px;
+    position: static;       
+    padding-bottom: 150px ; 
+}
+img{
+    height: 200px;
+    margin-left: 50px;
+   
+}
+h1{
+    color: white;
+    margin-top: 40px;
+    margin-left: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.points{
+    color: white;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 180px;
+}
+button{
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: red;
+    padding:5px 10px;
+    margin-left: 138px;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
