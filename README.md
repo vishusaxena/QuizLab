@@ -1,2 +1,2 @@
 # QuizLab
-This is a Quiz Website which contains Quizes on various Technical Topics.
+"QuizLab" is your go-to destination for interactive quizzes on a wide range of technical and non-technical subjects. Developed with HTML, CSS, and JavaScript, QuizLab offers a dynamic and engaging platform for users to test their knowledge and learn new concepts. With a diverse selection of quizzes covering various topics, from programming languages to general knowledge, QuizLab provides an immersive learning experience for enthusiasts of all levels. Dive into the world of quizzes with QuizLab and challenge yourself to new heights of knowledge mastery.
